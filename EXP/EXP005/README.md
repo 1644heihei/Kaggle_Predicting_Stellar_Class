@@ -1,0 +1,1 @@
+# EXP005\n\n## 変更点\n- EXP003(meta=LGBM)をベース\n- STARクラスのみ後段で重み最適化（OOFで探索）\n- 出力は submission-005.csv\n
